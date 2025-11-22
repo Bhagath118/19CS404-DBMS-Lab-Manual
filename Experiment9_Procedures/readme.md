@@ -239,4 +239,4 @@ Multiplication table of 5:
 
 ## RESULT
 Thus, the PL/SQL programs using procedures and functions were written, compiled, and executed successfully.
-19CS404-DBMS-Lab-Manual/Experiment9_Procedures/readme.md at main · Thilakeshwaran/19CS404-DBMS-Lab-Manual · GitHub 
+
