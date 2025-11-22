@@ -1,36 +1,3 @@
-Skip to content
-Navigation Menu
-Sign in
-Thilakeshwaran
-/
-19CS404-DBMS-Lab-Manual
-Public
-forked from abinaya-g/19CS404-DBMS-Lab-Manual
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-19CS404-DBMS-Lab-Manual/Experiment9_Procedures
-/readme.md
-Thilakeshwaran
-Thilakeshwaran
-Update readme.md
-726566b
- · 
-last week
-241 lines (195 loc) · 5.66 KB
-19CS404-DBMS-Lab-Manual/Experiment9_Procedures
-/readme.md
-
-Preview
-
-Code
-
-Blame
-# Experiment 9: PL/SQL – Procedures and Functions
-## AIM
 # Experiment 9: PL/SQL – Procedures and Functions
 
 ## AIM
